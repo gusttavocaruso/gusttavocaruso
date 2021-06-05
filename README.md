@@ -1,4 +1,4 @@
-### Hi there, Im Gus :brazil:
+### Hi there, Im Gus
 
 
 :ringed_planet:
