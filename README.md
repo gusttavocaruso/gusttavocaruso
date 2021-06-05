@@ -1,7 +1,7 @@
 ### Hi there, Im Gus
 
 
-:ringed_planet:
+# :ringed_planet:
 
 
 I am just a brazilian 28 guy who plays Capoeira and chess, care his plants like a pets, and his pet like a kid.
