@@ -6,7 +6,7 @@
 
 I am just a brazilian 28 guy who plays Capoeira and chess, care his plants like a pets, and his pet like a kid.
 
-SixSigma Production Engineer and Web-full-stack-Software-Development student that enjoy logics and with a huge trend to follow the back-end's side.
+SixSigma Production Engineer and Web-full-stack-Software-Development student that enjoy logics and has a huge trend to follow the back-end's side.
 
 
 
