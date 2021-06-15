@@ -1,4 +1,4 @@
-### Hi there, I am Gus
+### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
 
 # :ringed_planet:
