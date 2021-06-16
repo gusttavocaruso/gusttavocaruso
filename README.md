@@ -4,7 +4,7 @@
 # :ringed_planet:
 
 
-Im just a brazilian 28 guy whose plays Capoeira and chess, care his plants like a pets, and his pet like a kid.
+Im just a brazilian 28 guy who plays Capoeira and chess, care his plants like a pets, and his pet like a kid.
 
 SixSigma Production Engineer and Web-full-stack-Software-Development student that enjoy logics and data.
 
