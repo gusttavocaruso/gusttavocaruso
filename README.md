@@ -1,8 +1,8 @@
 ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
 
-# :ringed_planet:
-
+# :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :weight_lifting: :ringed_planet: :pinching_hand: 
+# 
 
 Im just a brazilian 28 guy who plays Capoeira and chess, care his plants like a pets, and his pet like a kid.
 
