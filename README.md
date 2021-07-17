@@ -12,9 +12,11 @@ Take a look at my repositories and watch my development thru the Software Develo
 
 
 
-
 <!--
 **gusttavocaruso/gusttavocaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="/docs/logo.png" alt="My cool logo"/>
+![stack Overflow](http://lmsotfy.com/so.png)
 
 Here are some ideas to get you started:
 
