@@ -23,12 +23,10 @@ Take a look at my repositories and watch my development thru the Software Develo
 
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large">
 
-#
 [![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
+#
+![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=gusttavocaruso&label=VIEWS&style=plastic)
 
 <!--
 **gusttavocaruso/gusttavocaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
