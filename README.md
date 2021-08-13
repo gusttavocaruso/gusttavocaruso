@@ -7,7 +7,7 @@ Im just a brazilian 28 guy who plays Capoeira and chess, care his plants like a 
 
 SixSigma Production Engineer and Software-Development student that enjoy logics and data.
 
-Take a look at my repositories and watch my development thru the Software Development world.
+Take a look at my repositories and watch my development thru the Software Engineering world.
 
 #
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
