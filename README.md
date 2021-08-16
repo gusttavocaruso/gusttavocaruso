@@ -17,8 +17,9 @@ Take a look at my repositories and watch my development thru the Software Engine
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://camo.githubusercontent.com/f2c80b28082b1568bf6ae3e4b999dcf6916e4f7ef611aa48efed85198ebe53a9/68747470733a2f2f6a6573746a732e696f2f696d672f6a6573742e706e67" alt="jest" width="40" height="40"/>
-<img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" alt="octopus" width="40" height="40"/>
+<img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40" style="max-width:100%;"></img>
 
