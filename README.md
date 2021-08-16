@@ -20,7 +20,7 @@ Take a look at my repositories and watch my development thru the Software Engine
 <img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/414px-Jupyter_logo.svg.png" alt="jupyter" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40" style="max-width:100%;"></img>
 
 
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large">
