@@ -1,8 +1,5 @@
 ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
-
-## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
-
 I always been fascinated by the human being’s ability to transform world around.
 It led me to study Engineering with passion.
 
@@ -16,6 +13,7 @@ Im just a brazilian 28 whose plays Capoeira and Chess, enjoy data-analisys, worl
 
 Comunnicative and analityc guy who works everyday to know yourself better.
 
+## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
 
 #
 <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" name="github" width="40" height="40" style="max-width:100%;"></img>
