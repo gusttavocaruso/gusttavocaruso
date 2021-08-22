@@ -3,14 +3,22 @@
 
 ## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
 
-Im just a brazilian 28 guy who plays Capoeira and chess, care his plants like a pets, and his pet like a kid.
+I always been fascinated by the human being’s ability to transform world around.
+It led me to study Engineering with passion.
 
-SixSigma Production Engineer and Software-Development student that enjoy logics and data.
+Also, that drove me to the Technology route, wich where I start to learn how  to engineering a Software.
 
-Take a look at my repositories and watch my development thru the Software Engineering world.
+My minds blowing since I start to jump thru the Software world !
+
+Scripts, datas, statistic-tools and creativity could design simple and impactful solutions to real-world issues. Thats awesome.
+
+Im just a brazilian 28 whose plays Capoeira and Chess, enjoy data-analisys, world-history and taking care of plants.
+
+Comunnicative and analityc guy who works everyday to know yourself better.
+
 
 #
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" name="github" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="linux" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
