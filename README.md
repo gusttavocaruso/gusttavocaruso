@@ -36,8 +36,10 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 
 [![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 #
 ![KOMAREV PROFILE VIEWS](https://komarev.com/ghpvc/?username=gusttavocaruso&label=VIEWS&style=plastic)
+
 
 
 
