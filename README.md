@@ -32,7 +32,11 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large">
 
-[![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula))](https://github.com/anuraghazra/github-readme-stats)
+[![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavocaruso&layout=compact&theme=dracula&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 #
@@ -42,10 +46,6 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 
 
 <!--
-**gusttavocaruso/gusttavocaruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://cv.jprudence.com/images/logo/nodejs.png" alt="nodejs" width="40" height="40" style="max-width:100%;"></img>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
