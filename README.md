@@ -22,7 +22,7 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" title="JavaScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" title="HTML5" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" title="Jest" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React.js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/testing-library/dom-testing-library/main/other/octopus.png" alt="octopus" title="RTL" width="40" height="40"/>
 <img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" title="Node.js" width="40" height="40" style="max-width:100%;"></img>
