@@ -7,7 +7,7 @@ My minds blowing since I start to jump thru the Software world !
 
 Scripts, datas, statistic-tools and creativity could design simple and impactful solutions to real-world issues. Thats awesome.
 
-Im just a brazilian 28 whose plays Capoeira and Chess, enjoy data-analisys, world-history and taking care of plants.
+Im just a brazilian 29 whose plays Capoeira and Chess, enjoy data-analisys, world-history and taking care of plants.
 
 Comunnicative and analityc guy who works everyday to know yourself better.
 
