@@ -35,6 +35,10 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 [![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+<img src="https://content.thriveglobal.com/wp-content/uploads/2020/05/0_DvA0HCzE-qmeyDpp-1.jpg" width="300" height="300">
+<img src="https://static.displate.com/280x392/displate/2020-08-18/4304537e6d49cd2867c4be660bb50ff2_177077d11c21743b49deb2b4a946e4fa.jpg" width="300" height="300">
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavocaruso&layout=compact&theme=dracula&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
 
