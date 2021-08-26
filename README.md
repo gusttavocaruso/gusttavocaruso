@@ -30,7 +30,7 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" title="JupyterNotebook" width="40" height="40" style="max-width:100%;"></img>
 
 
-<img src="https://www.codewars.com/users/gusttavocaruso/badges/large">
+<img src="https://www.codewars.com/users/gusttavocaruso/badges/large" title="CodeWars skill">
 
 [![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
