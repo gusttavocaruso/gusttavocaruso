@@ -16,8 +16,6 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 -->
 
 #
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" title="gitHub" name="github" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" title="VsCode" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="git" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" title="JavaScript" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" title="HTML5" width="40" height="40" style="max-width:100%;"></img>
@@ -41,6 +39,9 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavocaruso&layout=compact&theme=dracula&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
 
+github e vscode icons
+<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" title="gitHub" name="github" width="40" height="40" style="max-width:100%;"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vs-code" title="VsCode" width="40" height="40" />
 
 <!--
 #
