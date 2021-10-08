@@ -1,6 +1,6 @@
 ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
-I always been fascinated by the human being’s ability to transform world around.
+I've always been fascinated by the human being’s ability to transform world around.
 
 
 My minds blowing since I start to jump thru the Software world !
