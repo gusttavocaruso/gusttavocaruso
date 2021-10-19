@@ -17,6 +17,7 @@ Comunnicative and analityc guy who works everyday to know yourself better.
 
 #
 <div>
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="git" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" title="HTML5" width="40" height="40" style="max-width:100%;"></img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/>
@@ -29,6 +30,8 @@ Comunnicative and analityc guy who works everyday to know yourself better.
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" title="Python" width="40" height="40" style="max-width:100%;"></img>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" title="JupyterNotebook" width="40" height="40" style="max-width:100%;"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" title="SQLite" width="40" height="40"/>
+   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" alt="mySQL" title="mySQL" width="40" height="40"/>
+
 </div><br />
 
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large" title="CodeWars skill">
