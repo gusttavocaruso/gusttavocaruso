@@ -2,10 +2,7 @@
 
 I've always been fascinated by the human being’s ability to transform world around.
 
-
 My minds blowing since I start to jump thru the Software world !
-
-Scripts, datas, statistic-tools and creativity could design simple and impactful solutions to real-world issues. Thats awesome.
 
 Im just a brazilian 29 whose plays Capoeira and Chess, enjoy data-analisys, world-history and taking care of plants.
 
