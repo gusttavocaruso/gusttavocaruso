@@ -1,12 +1,6 @@
 ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
-I've always been fascinated by the human being’s ability to transform world around.
-
-My minds blowing since I start to jump thru the Software world !
-
-Im just a brazilian 29 whose plays Capoeira and Chess, enjoy data-analisys, world-history and taking care of plants.
-
-Comunnicative and analityc guy who works everyday to know yourself better.
+Im just a brazilian 29 guy who plays Capoeira and Chess, enjoy logics, world-history, taking care of pet and plants and works everyday to know yourself better!
 
 <!--
 ## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
