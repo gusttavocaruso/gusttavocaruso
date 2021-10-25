@@ -1,6 +1,7 @@
 ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
-Im just a brazilian 29 guy whose plays Capoeira and Chess, enjoy logics, world-history, taking care of pet and plants and works everyday to know yourself better!
+Im just a brazilian 29 guy whose plays Capoeira and Chess, <br />
+enjoy logics, world-history, taking care of pet and plants and works everyday to know yourself better!
 
 <!--
 ## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
