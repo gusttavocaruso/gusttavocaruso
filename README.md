@@ -23,6 +23,7 @@ enjoy logics, world-history, taking care of pet and plants and works everyday to
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" title="JupyterNotebook" width="40" height="40" style="max-width:100%;"></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" title="SQLite" width="40" height="40"/>
    <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" alt="mySQL" title="mySQL" width="40" height="40"/>
+   <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png" alt="Docker" title="Docker" width="40" height="40"/>
 
 </div><br />
 
