@@ -24,7 +24,7 @@ and works every day to get to know himself better.
 <br />
   
   <div>
-    <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png" alt="Docker" title="Docker" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3628734-3029959.png" alt="Docker" title="Docker" width="40" height="40"/>
     <img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" title="Node.js" width="40" height="40" style="max-width:100%;"></img>
     <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" title="Python" width="40" height="40" style="max-width:100%;"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" title="SQLite" width="40" height="40"/>
