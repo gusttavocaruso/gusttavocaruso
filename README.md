@@ -29,7 +29,7 @@ and works every day to get to know himself better.
     <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" title="Python" width="40" height="40" style="max-width:100%;"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" title="SQLite" width="40" height="40"/>
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" alt="mySQL" title="mySQL" width="40" height="40"/>
-    <img src="https://png2.cleanpng.com/sh/cede5fb35c0e26481e4afa3572f4f078/L0KzQYm3VMA0N5hxiZH0aYP2gLBuTf1wdph0fNQ2bnBndX7xk71veJ4yhAJubj32f8b5gBUudZDpfd42YX7qhb3okvp0NZ1qedg2NXHmRIXrWfVnOJRofKc3MkS2RYSAUMIyPWM3UKM9M0a5SYm9U75xdpg=/kisspng-mongodb-node-js-npm-open-source-model-angularjs-leaf-5ac44d9ef0ccd5.2435370215228143669863.png" alt="mongodb" title="mongoDB" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" alt="mongodb" title="mongoDB" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" title="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" title="JupyterNotebook" width="40" height="40" style="max-width:100%;"></img>
   </div>
