@@ -26,6 +26,7 @@ and works every day to get to know himself better.
   <div>
     <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3628734-3029959.png" alt="Docker" title="Docker" width="40" height="40"/>
     <img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" title="Node.js" width="40" height="40" style="max-width:100%;"></img>
+    <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" alt="express framework" title="Express" width="40" height="40" style="max-width:100%;"></img>
     <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" title="Python" width="40" height="40" style="max-width:100%;"></img>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" title="SQLite" width="40" height="40"/>
     <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-securing-mysql-and-connecting-wso-servers-yasassri-blog-18.png" alt="mySQL" title="mySQL" width="40" height="40"/>
