@@ -1,14 +1,13 @@
-<div align="center">
+<div align="left" style="display: inline_block" markdown="1">
 
-### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
+  ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
   I'm just a 29 guy who plays Capoeira and Chess, <br />
-  enjoys reading, world-history, takes care of the dog like a son, plants like a pet <br />
-  and works every day to get to know himself better.
+  enjoys reading, world-history, takes care of the dog like a son, <br />
+  plants like a pet and works every day to get to know himself better.
+</div>
 
-<!--
-## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
--->
+<div align="center">
 
 #
 <div>
