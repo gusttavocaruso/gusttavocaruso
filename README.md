@@ -1,8 +1,10 @@
+<div align="center">
+
 ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
-I'm just a 29 guy who plays Capoeira and Chess, <br />
-enjoys reading, world-history, takes care of the dog like a son, plants like a pet <br />
-and works every day to get to know himself better.
+  I'm just a 29 guy who plays Capoeira and Chess, <br />
+  enjoys reading, world-history, takes care of the dog like a son, plants like a pet <br />
+  and works every day to get to know himself better.
 
 <!--
 ## :brazil: :man_cartwheeling: :chess_pawn: :cactus: :dog: :mortar_board: :gear: :factory_worker: :chart_with_upwards_trend: :factory: :brain: :man_technologist: :signal_strength: :pinching_hand: :weight_lifting: :ringed_planet: 
@@ -42,6 +44,14 @@ and works every day to get to know himself better.
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large" title="CodeWars skill">
 
 [![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div align="center" style="display: inline_block" markdown="1">
+  <img height="200px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/DwwH6xS9/Filh-oz-o-c-pia.jpg" />
+  <img height="200px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/NfL4FSSP/IMG-8396.jpg" />
+  <img height="200px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/0QyCR4sv/IMG-8688-c-pia.jpg" />
+  <img height="200px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/s2yBbZrC/IMG-8687.jpg" />
+</div>
 
 <!--
 <div>
