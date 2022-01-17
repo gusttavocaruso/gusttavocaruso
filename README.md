@@ -1,4 +1,4 @@
-<div align="left" style="display: inline_block" markdown="1">
+<div align="center" style="display: inline_block" markdown="1">
 
   ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
 
