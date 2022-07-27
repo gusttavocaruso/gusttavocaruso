@@ -13,10 +13,10 @@
 #
 <div>
 <br />
-  <div>
+<div>
+  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" title="Java" width="40" height="40" style="max-width:100%;"/>
 <img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" title="Node.js" width="40" height="40" style="max-width:100%;"></img>
     <img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="python" title="Python" width="40" height="40" style="max-width:100%;"/>
-    <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java" title="Java" width="40" height="40" style="max-width:100%;"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typeScript" title="TypeScript" width="40" height="40" style="max-width:100%;"/>
   </div>
   
