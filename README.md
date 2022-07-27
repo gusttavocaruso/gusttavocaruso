@@ -1,10 +1,11 @@
 <div align="center" style="display: inline_block" markdown="1">
 
-  ### Hi there, I am [Gus](https://www.linkedin.com/in/gustavohdealmeida/) 
+  ### Hey there, [Gusta](https://www.linkedin.com/in/gustavohdealmeida/) here
 
-  I'm just a 29 guy who plays Capoeira and Chess, <br />
-  enjoys reading, world-history, takes care of the dog like a son, <br />
-  plants like a pet and works every day to get to know himself better.
+  I'm Capoeira. I play Chess. <br/>
+  I enjoy reading and I work every day to get to know himself better!
+
+  gustavoalmeida26@hotmail.com
 </div>
 
 <div align="center">
