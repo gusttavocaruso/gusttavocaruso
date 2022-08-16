@@ -3,7 +3,7 @@
   ### Hey there, [Gusta](https://www.linkedin.com/in/gustavohdealmeida/) here
 
   I'm Capoeira. I play Chess. <br/>
-  I enjoy reading and I work every day to get to know himself better!
+  I enjoy reading and I work every day to get to know myself better!
 
   gustavoalmeida26@hotmail.com
 </div>
