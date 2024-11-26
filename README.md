@@ -43,6 +43,7 @@
 [![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusttavocaruso&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<!--
 <div align="center" style="display: inline_block" markdown="1">
   <img height="180px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/DwwH6xS9/Filh-oz-o-c-pia.jpg" />
   <img height="180px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/NfL4FSSP/IMG-8396.jpg" />
@@ -50,7 +51,7 @@
   <img height="180px" align="center" style="margin-left:30px;" src="https://i.postimg.cc/s2yBbZrC/IMG-8687.jpg" />
 </div>
 
-<!--
+
 <div>
   <h4>front</h4>
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" title="JavaScript" width="40" height="40" style="max-width:100%;"></img>
