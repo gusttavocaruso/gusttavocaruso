@@ -7,35 +7,7 @@
 
   gustavoalmeida26@hotmail.com
 </div>
-
-<div align="center">
-
-#
-<div>
-<br />
-<div>
-  <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" title="Java" width="40" height="40" style="max-width:100%;"/>
-<img src="https://bunkersem.github.io/portfolio/images/techs/nodejs.svg" alt="node-js" title="Node.js" width="40" height="40" style="max-width:100%;"></img>
-    <img src="https://camo.githubusercontent.com/dd8b0601cdfefe534a6a26f4c29c7f8a5fcfc315002655f519c73121f7bad8bc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667" alt="python" title="Python" width="40" height="40" style="max-width:100%;"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typeScript" title="TypeScript" width="40" height="40" style="max-width:100%;"/>
-  </div>
-  
-<br />
-  
-  <div>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/docker-3628734-3029959.png" alt="Docker" title="Docker" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" alt="react" title="React.js" width="40" height="40"/>
-    <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" alt="mocha" title="Mocha" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" alt="chai" title="Chai" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" title="Jest" width="40" height="40"/>
-    <img src="https://reverbc.gallerycdn.vsassets.io/extensions/reverbc/vscode-pytest/0.1.1/1617123275355/Microsoft.VisualStudio.Services.Icons.Default" alt="pytest" title="Pytest" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667" title="mongoDB" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" alt="mySQL" title="mySQL" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="sqlite" title="SQLite" width="40" height="40"/>
-  </div>
-
-#
-</div><br />
+<br>
 
 
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large" title="CodeWars skill">
