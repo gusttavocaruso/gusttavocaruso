@@ -1,14 +1,5 @@
 <div align="center" style="display: inline_block" markdown="1">
 
-  ### Hey there, [Gusta](https://www.linkedin.com/in/gustavohdealmeida/) here
-
-  I'm Capoeira. I play Chess. <br/>
-  I enjoy reading and I work every day to get to know myself better!
-
-  gustavoalmeida26@hotmail.com
-</div>
-<br>
-
 
 <img src="https://www.codewars.com/users/gusttavocaruso/badges/large" title="CodeWars skill">
 
